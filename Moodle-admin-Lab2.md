@@ -166,7 +166,8 @@ Site administration > Courses > Manage courses and categories
 
 **บันทึกรูปหน้า Category:** 
 ```
- # บันทึกรูปหน้า Category
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b7af667a-c03b-43e8-a71d-f33eafd1fc85" />
+
 ```
 
 ### 3: สร้างและจัดการ Cohorts 
@@ -320,7 +321,8 @@ CSV settings:
 
 **บันทึกรูปหน้า Cohorts ที่สร้างแล้ว:** 
 ```
- # บันทึกรูปหน้า Cohorts
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/423c6dde-424b-4dcc-946e-de602d6fd9aa" />
+
 ```
 
 ### 4: Bulk User Upload
